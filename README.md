@@ -82,6 +82,17 @@ The project successfully utilized historical stock data to perform financial por
 
 Future Work:
 
-Broader Asset Coverage: Expanding the analysis to include additional asset classes or alternative investments could enhance portfolio diversification and risk management.
-Advanced Techniques: Exploring more sophisticated optimization techniques or integrating machine learning methods could improve portfolio management strategies.
-Real-Time Data Integration: Incorporating real-time data for dynamic portfolio adjustments could provide more timely and relevant investment decisions.
+
+Broader Asset Coverage: 
+
+Expanding the analysis to include additional asset classes or alternative investments could enhance portfolio diversification and risk management.
+
+
+Advanced Techniques: 
+
+Exploring more sophisticated optimization techniques or integrating machine learning methods could improve portfolio management strategies.
+
+
+Real-Time Data Integration: 
+
+Incorporating real-time data for dynamic portfolio adjustments could provide more timely and relevant investment decisions.
